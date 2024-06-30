@@ -1,7 +1,7 @@
 # KratosGPT![godofwar4blogroll-1523487184188](https://github.com/klally36/Kratos-GPT/assets/174218325/7ebd6a02-8e61-4bf8-83a4-582458c5b04a)
 
 ## Overview
-This is KratosGPT! This project leverages artificial intelligence (AI) to play God of War: Ragnarok. By utilizing a LLM agent, an image captioning model, and YOLOv8 for object detection, this AI system controls the main character, Kratos, guiding his actions within the game. Users can try out this functionality for free using a Cohere trial API Key. This README provides comprehensive instructions on implementing this AI system in any game, promising an adventure filled with excitement and triumph.
+This is KratosGPT! This project leverages artificial intelligence (AI) to play God of War. By utilizing a LLM agent, an image captioning model, and YOLOv8 for object detection, this AI system controls the main character, Kratos, guiding his actions within the game. Users can try out this functionality for free using a Cohere trial API Key. This README provides comprehensive instructions on implementing this AI system in any game, promising an adventure filled with excitement and triumph.
 
 
 
@@ -9,7 +9,7 @@ This is KratosGPT! This project leverages artificial intelligence (AI) to play G
 ## Prerequisites
 Before proceeding, ensure you have the following prerequisites:
 #### 1. Cohere Trial API Key: Sign up for a Cohere account to obtain your trial API key, allowing access to Cohere's Language models.
-#### 2. Game and Tools: Install God of War: Ragnarok on your system and ensure all requirements from requirements.txt are installed, including image captioning models and YOLOv8.
+#### 2. Game and Tools: Install God of War on your system and ensure all requirements from requirements.txt are installed, including image captioning models and YOLOv8.
 #### 3. GPT-4 Text and Image API (Optional): Optionally, if you have access, the GPT-4 Text and Image API can enhance AI capabilities by using image input directly with GPT-4.
 
 ## Project Structure
